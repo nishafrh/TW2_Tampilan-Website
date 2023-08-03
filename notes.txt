@@ -1,0 +1,5 @@
+to make tailwind.config.js file
+enter command: npx tailwindcss init
+
+to make package.json file
+enter command: npm init -y
